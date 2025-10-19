@@ -27,19 +27,8 @@ python -m streamlit run app.py
 
 📈 Sample Visuals
 
+<img width="792" height="1021" alt="image" src="https://github.com/user-attachments/assets/eaab829b-839f-4756-b48a-7fc6e08ae3f4" />
 
-<img width="1475" height="680" alt="image" src="https://github.com/user-attachments/assets/b3a64167-cd9d-4a6e-83e4-37f4ea5191a6" />
-
-
-
-<img width="923" height="733" alt="image" src="https://github.com/user-attachments/assets/9e794b90-2f3d-4406-a40d-35f33edd9c73" />
-
-
-
-<img width="903" height="613" alt="image" src="https://github.com/user-attachments/assets/39a71728-c03b-46b3-9a95-871c297ee4f6" />
-
-
-<img width="771" height="1013" alt="image" src="https://github.com/user-attachments/assets/8713197e-eb39-4a5c-8ece-cd7d14de1305" />
 
 📬 Contact
 Made by Gokul | LinkedIn | GitHub
